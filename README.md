@@ -3,8 +3,6 @@
 - [前端專案](https://github.com/lujakob/nestjs-realworld-example-app)
 - [後端專案](https://github.com/mutoe/vue3-realworld-example-app)
 
-這兩個專案不是我撰寫的，我是使用別人寫好的應用程式來進行部署
-
 使用容器技術部署前、後端專案，計畫實作下面列舉項目
 1. 容器化後端專案 [commit](https://github.com/newjett0617/nestjs-realworld-example-app/commit/6f4d0f224160695596d201bad2681a93e386d492)
 1. 容器化前端專案 [commit](https://github.com/newjett0617/vue3-realworld-example-app/commit/52e3675d5a3bfc7e992a0204fec30774819b9c1e)
